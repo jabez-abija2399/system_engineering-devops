@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays the third line of the local file 'iacta' (without using sed)
+
+head -n 3 iacta | tail -n 1
