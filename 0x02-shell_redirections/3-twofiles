@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-# Displays the contents of /etc/passwd and /etc/hosts
-
-cat /etc/passwd
-cat /etc/hosts
+#!/bin/bash
+cat /etc/passwd /etc/hosts
