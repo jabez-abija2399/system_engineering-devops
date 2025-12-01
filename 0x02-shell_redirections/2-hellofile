@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays the content of /etc/passwd
+
+cat /etc/passwd
