@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-# Shows the first 10 lines of /etc/passwd
-
+#!/bin/bash
 head -n 10 /etc/passwd
